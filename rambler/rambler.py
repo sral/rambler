@@ -8,7 +8,7 @@ import textwrap
 
 
 def build_table(data_file):
-    """Builds and return 'probability' table."""
+    """Builds and returns a 'probability' table."""
 
     table = {}
     words = []
